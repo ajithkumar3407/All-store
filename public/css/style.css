@@ -1,0 +1,189 @@
+*{
+    margin:0;
+	padding:0;
+    box-sizing:border-box;	
+}
+.container{
+	width:90%;
+	margin:0 auto;
+}
+.row{
+    display:flex;
+}
+.align-items{
+	align-items:center;
+}
+.col_1{
+	width:8.33%;
+	padding:0 10px;
+}
+.col_2{
+	width:16.66%;
+	padding:0 10px;
+}
+.col_3{
+	width:25%;
+	padding:0 10px;
+}
+.col_4{
+	width:33.32%;
+	padding:0 10px;
+}
+.col_5{
+	width:41.65%;
+	padding:0 10px;
+}
+.col_6{
+	width:50%;
+	padding:0 10px;
+}
+.col_6{
+	width:50%;
+}
+.col_7{
+	width:58.33%;
+	padding:0 10px;
+}
+.col_8{
+	width:66.66%;
+	padding:0 10px;
+}
+.col_9{
+	width:75%;
+	padding:0 10px;
+}
+.col_10{
+	width:83.33%;
+	padding:0 10px;
+}
+.col_11{
+	width:91.66%;
+	padding:0 10px;
+}
+.col_12{
+	width:100%;
+	padding:0 10px;
+}
+#header{
+	width:100%;
+	background-color:azure;
+	top:0;
+	padding:20px 0;
+}
+.content{
+	color:#933b28;
+}
+.content h2{
+	font-family: 'Raleway', sans-serif;
+	font-size:36px;
+	letter-spacing:1px;
+}
+.content h2:hover{
+	color:#d91552;
+}
+.list{
+	font-family: 'Open Sans', sans-serif;
+	display:flex;
+    gap:20px;
+	list-style:none;
+	justify-content:end;
+}
+.list li a{
+	text-decoration:none;
+	font-size:20px;
+	color:black;
+	transition:all 0.2s ease;
+}
+.list li a:hover{
+	color:#ed502e;
+}
+.navbar .button, .navbar .button:focus {
+    background: #ed502e;
+    padding: 8px 20px;
+    margin-left: 30px;
+    border-radius: 30px;
+    color: #fff;
+}
+.navbar .button, .navbar .button:hover{
+	color:white;
+}
+#banner{	
+	width:100%;
+    height:auto;
+    background-image:url("images/stock-vector-illustratio.jpg");
+    background-size:cover;
+}
+#sec-1{
+	background-color:pink;
+}
+.cont img{
+	width:30%;
+	
+} 
+.centent h4{
+	font-size:30px;
+	Color:green;
+}
+#sec-2{
+	background-color:azure;
+}
+.cont1{
+	margin-top:50px;
+}
+.cont1 img{
+	width:100%;
+	border:5px solid #5c5c62;
+}
+
+.cont1 img:hover{
+	width:90%;
+}
+.para{
+	margin-top:20px;
+	margin-left: 49px;
+}
+.para h3{
+	Color:#1313e7;
+}
+.para h3:hover{
+	font-size:20px;
+	Color:#13e773;
+}
+.para p{
+	font-size:10px;
+	margin-top:10px;
+	font-family: 'Poppins', sans-serif;
+	Color:#8405a3;
+}
+.para p:hover{
+	color:#cd4c0d;
+	font-size:16px;
+}
+.bttn{
+	margin-top: 20px;
+	margin-bottom: 37px;
+}
+.bttn a{
+    background: #ed502e;
+    padding: 8px 20px;
+    margin-left: 33px;
+    border-radius: 21px;
+	Color:white;
+	text-decoration:none;
+}
+
+#sec-3{
+	background-color:pink;
+}
+ #sec-4{
+	background-color:azure;
+}
+.cont1{
+	margin-top:50px;
+}
+ #sec-5{
+	background-color:pink;
+} 
+#sec-6{
+	background-color:azure;
+} 
